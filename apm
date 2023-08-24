@@ -1,4 +1,5 @@
 #This script is to write a lambda function everynight
 #This script is to monitor logs and metrics 
 #This is to documnet all the information need for future use
+#We have to use confluence for documentation
 #Author Harry
